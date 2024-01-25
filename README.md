@@ -9,3 +9,8 @@
 -> for inference i have used beam search technique with hyperparameter bw(beam width)
 
 -> and their are lot of improvements that i will do in future to make it a good model
+
+
+-> naive_show_attend_and_tell code is base on bhadanau attention mechanism and model is based on show Attand and Tell paper
+
+-> testing_of_naive_show_attend_and_tell code  is for testing of naive_show_attend_and_tell model based on their checkpoints that are stored during training
